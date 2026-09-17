@@ -1,0 +1,456 @@
+{
+  "AC": {
+    "code": "AC",
+    "name": "Acre",
+    "primaryBiome": "Amazônia",
+    "biomes": [
+      {
+        "name": "Amazônia",
+        "percentage": 100,
+        "color": "#10b981"
+      }
+    ]
+  },
+  "AL": {
+    "code": "AL",
+    "name": "Alagoas",
+    "primaryBiome": "Mata Atlântica",
+    "biomes": [
+      {
+        "name": "Mata Atlântica",
+        "percentage": 52,
+        "color": "#059669"
+      },
+      {
+        "name": "Caatinga",
+        "percentage": 48,
+        "color": "#d97706"
+      }
+    ]
+  },
+  "AP": {
+    "code": "AP",
+    "name": "Amapá",
+    "primaryBiome": "Amazônia",
+    "biomes": [
+      {
+        "name": "Amazônia",
+        "percentage": 93,
+        "color": "#10b981"
+      },
+      {
+        "name": "Cerrado (Campos)",
+        "percentage": 7,
+        "color": "#eab308"
+      }
+    ]
+  },
+  "AM": {
+    "code": "AM",
+    "name": "Amazonas",
+    "primaryBiome": "Amazônia",
+    "biomes": [
+      {
+        "name": "Amazônia",
+        "percentage": 100,
+        "color": "#10b981"
+      }
+    ]
+  },
+  "BA": {
+    "code": "BA",
+    "name": "Bahia",
+    "primaryBiome": "Caatinga",
+    "biomes": [
+      {
+        "name": "Caatinga",
+        "percentage": 54,
+        "color": "#d97706"
+      },
+      {
+        "name": "Cerrado",
+        "percentage": 27,
+        "color": "#eab308"
+      },
+      {
+        "name": "Mata Atlântica",
+        "percentage": 19,
+        "color": "#059669"
+      }
+    ]
+  },
+  "CE": {
+    "code": "CE",
+    "name": "Ceará",
+    "primaryBiome": "Caatinga",
+    "biomes": [
+      {
+        "name": "Caatinga",
+        "percentage": 95,
+        "color": "#d97706"
+      },
+      {
+        "name": "Mata Atlântica (Serras)",
+        "percentage": 5,
+        "color": "#059669"
+      }
+    ]
+  },
+  "DF": {
+    "code": "DF",
+    "name": "Distrito Federal",
+    "primaryBiome": "Cerrado",
+    "biomes": [
+      {
+        "name": "Cerrado",
+        "percentage": 100,
+        "color": "#eab308"
+      }
+    ]
+  },
+  "ES": {
+    "code": "ES",
+    "name": "Espírito Santo",
+    "primaryBiome": "Mata Atlântica",
+    "biomes": [
+      {
+        "name": "Mata Atlântica",
+        "percentage": 100,
+        "color": "#059669"
+      }
+    ]
+  },
+  "GO": {
+    "code": "GO",
+    "name": "Goiás",
+    "primaryBiome": "Cerrado",
+    "biomes": [
+      {
+        "name": "Cerrado",
+        "percentage": 100,
+        "color": "#eab308"
+      }
+    ]
+  },
+  "MA": {
+    "code": "MA",
+    "name": "Maranhão",
+    "primaryBiome": "Cerrado",
+    "biomes": [
+      {
+        "name": "Cerrado",
+        "percentage": 64,
+        "color": "#eab308"
+      },
+      {
+        "name": "Amazônia",
+        "percentage": 35,
+        "color": "#10b981"
+      },
+      {
+        "name": "Caatinga",
+        "percentage": 1,
+        "color": "#d97706"
+      }
+    ]
+  },
+  "MT": {
+    "code": "MT",
+    "name": "Mato Grosso",
+    "primaryBiome": "Amazônia",
+    "biomes": [
+      {
+        "name": "Amazônia",
+        "percentage": 53,
+        "color": "#10b981"
+      },
+      {
+        "name": "Cerrado",
+        "percentage": 40,
+        "color": "#eab308"
+      },
+      {
+        "name": "Pantanal",
+        "percentage": 7,
+        "color": "#06b6d4"
+      }
+    ]
+  },
+  "MS": {
+    "code": "MS",
+    "name": "Mato Grosso do Sul",
+    "primaryBiome": "Cerrado",
+    "biomes": [
+      {
+        "name": "Cerrado",
+        "percentage": 61,
+        "color": "#eab308"
+      },
+      {
+        "name": "Pantanal",
+        "percentage": 25,
+        "color": "#06b6d4"
+      },
+      {
+        "name": "Mata Atlântica",
+        "percentage": 14,
+        "color": "#059669"
+      }
+    ]
+  },
+  "MG": {
+    "code": "MG",
+    "name": "Minas Gerais",
+    "primaryBiome": "Cerrado",
+    "biomes": [
+      {
+        "name": "Cerrado",
+        "percentage": 54,
+        "color": "#eab308"
+      },
+      {
+        "name": "Mata Atlântica",
+        "percentage": 41,
+        "color": "#059669"
+      },
+      {
+        "name": "Caatinga",
+        "percentage": 5,
+        "color": "#d97706"
+      }
+    ]
+  },
+  "PA": {
+    "code": "PA",
+    "name": "Pará",
+    "primaryBiome": "Amazônia",
+    "biomes": [
+      {
+        "name": "Amazônia",
+        "percentage": 99,
+        "color": "#10b981"
+      },
+      {
+        "name": "Cerrado",
+        "percentage": 1,
+        "color": "#eab308"
+      }
+    ]
+  },
+  "PB": {
+    "code": "PB",
+    "name": "Paraíba",
+    "primaryBiome": "Caatinga",
+    "biomes": [
+      {
+        "name": "Caatinga",
+        "percentage": 92,
+        "color": "#d97706"
+      },
+      {
+        "name": "Mata Atlântica",
+        "percentage": 8,
+        "color": "#059669"
+      }
+    ]
+  },
+  "PR": {
+    "code": "PR",
+    "name": "Paraná",
+    "primaryBiome": "Mata Atlântica",
+    "biomes": [
+      {
+        "name": "Mata Atlântica (Mata de Araucária)",
+        "percentage": 98,
+        "color": "#059669"
+      },
+      {
+        "name": "Cerrado (Campos Gerais)",
+        "percentage": 2,
+        "color": "#eab308"
+      }
+    ]
+  },
+  "PE": {
+    "code": "PE",
+    "name": "Pernambuco",
+    "primaryBiome": "Caatinga",
+    "biomes": [
+      {
+        "name": "Caatinga",
+        "percentage": 80,
+        "color": "#d97706"
+      },
+      {
+        "name": "Mata Atlântica",
+        "percentage": 20,
+        "color": "#059669"
+      }
+    ]
+  },
+  "PI": {
+    "code": "PI",
+    "name": "Piauí",
+    "primaryBiome": "Caatinga",
+    "biomes": [
+      {
+        "name": "Caatinga",
+        "percentage": 53,
+        "color": "#d97706"
+      },
+      {
+        "name": "Cerrado",
+        "percentage": 47,
+        "color": "#eab308"
+      }
+    ]
+  },
+  "RJ": {
+    "code": "RJ",
+    "name": "Rio de Janeiro",
+    "primaryBiome": "Mata Atlântica",
+    "biomes": [
+      {
+        "name": "Mata Atlântica",
+        "percentage": 100,
+        "color": "#059669"
+      }
+    ]
+  },
+  "RN": {
+    "code": "RN",
+    "name": "Rio Grande do Norte",
+    "primaryBiome": "Caatinga",
+    "biomes": [
+      {
+        "name": "Caatinga",
+        "percentage": 93,
+        "color": "#d97706"
+      },
+      {
+        "name": "Mata Atlântica",
+        "percentage": 7,
+        "color": "#059669"
+      }
+    ]
+  },
+  "RS": {
+    "code": "RS",
+    "name": "Rio Grande do Sul",
+    "primaryBiome": "Pampa",
+    "biomes": [
+      {
+        "name": "Pampa",
+        "percentage": 63,
+        "color": "#84cc16"
+      },
+      {
+        "name": "Mata Atlântica",
+        "percentage": 37,
+        "color": "#059669"
+      }
+    ]
+  },
+  "RO": {
+    "code": "RO",
+    "name": "Rondônia",
+    "primaryBiome": "Amazônia",
+    "biomes": [
+      {
+        "name": "Amazônia",
+        "percentage": 99,
+        "color": "#10b981"
+      },
+      {
+        "name": "Cerrado",
+        "percentage": 1,
+        "color": "#eab308"
+      }
+    ]
+  },
+  "RR": {
+    "code": "RR",
+    "name": "Roraima",
+    "primaryBiome": "Amazônia",
+    "biomes": [
+      {
+        "name": "Amazônia",
+        "percentage": 75,
+        "color": "#10b981"
+      },
+      {
+        "name": "Cerrado (Lavrado)",
+        "percentage": 25,
+        "color": "#eab308"
+      }
+    ]
+  },
+  "SC": {
+    "code": "SC",
+    "name": "Santa Catarina",
+    "primaryBiome": "Mata Atlântica",
+    "biomes": [
+      {
+        "name": "Mata Atlântica (Serra e Litoral)",
+        "percentage": 99,
+        "color": "#059669"
+      },
+      {
+        "name": "Pampa (Campos de Cima da Serra)",
+        "percentage": 1,
+        "color": "#84cc16"
+      }
+    ]
+  },
+  "SP": {
+    "code": "SP",
+    "name": "São Paulo",
+    "primaryBiome": "Mata Atlântica",
+    "biomes": [
+      {
+        "name": "Mata Atlântica",
+        "percentage": 70,
+        "color": "#059669"
+      },
+      {
+        "name": "Cerrado",
+        "percentage": 30,
+        "color": "#eab308"
+      }
+    ]
+  },
+  "SE": {
+    "code": "SE",
+    "name": "Sergipe",
+    "primaryBiome": "Caatinga",
+    "biomes": [
+      {
+        "name": "Caatinga",
+        "percentage": 50,
+        "color": "#d97706"
+      },
+      {
+        "name": "Mata Atlântica",
+        "percentage": 50,
+        "color": "#059669"
+      }
+    ]
+  },
+  "TO": {
+    "code": "TO",
+    "name": "Tocantins",
+    "primaryBiome": "Cerrado",
+    "biomes": [
+      {
+        "name": "Cerrado",
+        "percentage": 87,
+        "color": "#eab308"
+      },
+      {
+        "name": "Amazônia",
+        "percentage": 13,
+        "color": "#10b981"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1055 @@
+{
+  "AC": {
+    "code": "AC",
+    "name": "Acre",
+    "priorityLevel": "Alta",
+    "ecologicalGuidelines": [
+      "Implantar Sistemas Agroflorestais (SAFs) com espécies nativas de alto valor",
+      "Priorizar recuperação de Matas Ciliares nas bacias dos rios Acre e Juruá",
+      "Uso de espécies fixadoras de nitrogênio em pastagens degradadas"
+    ],
+    "recommendedPlants": [
+      {
+        "name": "Castanheira-do-Brasil",
+        "scientificName": "Bertholletia excelsa",
+        "type": "Clímax",
+        "growthRate": "Lento",
+        "benefits": "Produção sustentável de castanhas, retenção massiva de carbono e restauração de dossel florestal.",
+        "description": "Árvore monumental nativa da Amazônia, protegida por lei e essencial para a fauna.",
+        "idealSoil": "Solos profundos e bem drenados (Latossolos)"
+      },
+      {
+        "name": "Seringueira",
+        "scientificName": "Hevea brasiliensis",
+        "type": "Secundária",
+        "growthRate": "Médio",
+        "benefits": "Geração de renda com látex, rápida cobertura de solo e preservação hídrica.",
+        "description": "Símbolo histórico do Acre, ideal para consórcios agroflorestais.",
+        "idealSoil": "Solos argilosos e úmidos"
+      },
+      {
+        "name": "Açaí-da-Mata",
+        "scientificName": "Euterpe precatoria",
+        "type": "Pioneira",
+        "growthRate": "Rápido",
+        "benefits": "Alimento para avifauna, contenção de encostas e recuperação de várzeas.",
+        "description": "Palmeira solitária nativa de fácil adaptação em áreas úmidas e reflorestamento de igarapés.",
+        "idealSoil": "Solos úmidos e ricos em matéria orgânica"
+      }
+    ]
+  },
+  "AL": {
+    "code": "AL",
+    "name": "Alagoas",
+    "priorityLevel": "Urgente",
+    "ecologicalGuidelines": [
+      "Criação de corredores ecológicos na Zona da Mata",
+      "Técnicas de contenção de erosão e terraceamento no Sertão",
+      "Reintrodução de espécies endêmicas da Mata Atlântica Nordestina"
+    ],
+    "recommendedPlants": [
+      {
+        "name": "Pau-Brasil",
+        "scientificName": "Paubrasilia echinata",
+        "type": "Clímax",
+        "growthRate": "Lento",
+        "benefits": "Restauração da Mata Atlântica original, conservação genética e atrativo para polinizadores.",
+        "description": "Árvore símbolo nacional, nativa da floresta estacional e ombrófila costeira.",
+        "idealSoil": "Solos profundos e bem drenados"
+      },
+      {
+        "name": "Umbuzeiro",
+        "scientificName": "Spondias tuberosa",
+        "type": "Pioneira",
+        "growthRate": "Médio",
+        "benefits": "Reserva hídrica subterrânea, combate severo à desertificação e segurança alimentar.",
+        "description": "A \"árvore sagrada do sertão\", acumula água em batatas subterrâneas.",
+        "idealSoil": "Solos secos, pedregosos ou arenosos"
+      },
+      {
+        "name": "Craibeira",
+        "scientificName": "Tabebuia aurea",
+        "type": "Secundária",
+        "growthRate": "Médio",
+        "benefits": "Sombra, fixação de margens de rios temporários e exuberante florada amarela.",
+        "description": "Árvore símbolo de Alagoas, muito resistente ao estresse hídrico.",
+        "idealSoil": "Várzeas e solos aluviais"
+      }
+    ]
+  },
+  "AP": {
+    "code": "AP",
+    "name": "Amapá",
+    "priorityLevel": "Média",
+    "ecologicalGuidelines": [
+      "Recuperação de áreas de manguezais e restingas",
+      "Restauração de antigas clareiras com bioengenharia",
+      "Enriquecimento de florestas secundárias (capoeiras)"
+    ],
+    "recommendedPlants": [
+      {
+        "name": "Andiroba",
+        "scientificName": "Carapa guianensis",
+        "type": "Clímax",
+        "growthRate": "Médio",
+        "benefits": "Óleo medicinal de alto valor, tolerância a inundações e recomposição de várzeas.",
+        "description": "Árvore de grande porte muito valorizada pelas comunidades ribeirinhas.",
+        "idealSoil": "Solos alagados ou margens fluviais"
+      },
+      {
+        "name": "Pracaxi",
+        "scientificName": "Pentaclethra macroloba",
+        "type": "Pioneira",
+        "growthRate": "Rápido",
+        "benefits": "Fixação de nitrogênio, sementes ricas em óleos nobres e rápida cobertura.",
+        "description": "Espécie-chave em ecossistemas estuarinos e florestas inundáveis.",
+        "idealSoil": "Solos úmidos e argilosos"
+      },
+      {
+        "name": "Ucuúba",
+        "scientificName": "Virola surinamensis",
+        "type": "Clímax",
+        "growthRate": "Médio",
+        "benefits": "Espécie ameaçada, restauração de matas ciliares e manteiga vegetal.",
+        "description": "Nativa das várzeas amazônicas, essencial para a fauna de igapó.",
+        "idealSoil": "Solos inundáveis"
+      }
+    ]
+  },
+  "AM": {
+    "code": "AM",
+    "name": "Amazonas",
+    "priorityLevel": "Urgente",
+    "ecologicalGuidelines": [
+      "Restauração emergencial do arco sul amazônico (AMACRO)",
+      "Fomento a cadeias sustentáveis de produtos não madeireiros",
+      "Reconexão de corredores ecológicos entre TIs e UCs"
+    ],
+    "recommendedPlants": [
+      {
+        "name": "Sumaúma",
+        "scientificName": "Ceiba pentandra",
+        "type": "Clímax",
+        "growthRate": "Rápido",
+        "benefits": "Regulação de microclima e umidade, abrigo para centenas de espécies e biomassa massiva.",
+        "description": "A rainha da floresta, uma das maiores árvores do planeta.",
+        "idealSoil": "Solos profundos e várzeas"
+      },
+      {
+        "name": "Copaíba",
+        "scientificName": "Copaifera multijuga",
+        "type": "Clímax",
+        "growthRate": "Lento",
+        "benefits": "Óleo-resina de alto valor curativo, fixação duradoura de carbono.",
+        "description": "Árvore nobre de dossel contínuo, pilar da biodiversidade florestal.",
+        "idealSoil": "Solos argilosos e terra firme"
+      },
+      {
+        "name": "Ingá-Cipó",
+        "scientificName": "Inga edulis",
+        "type": "Pioneira",
+        "growthRate": "Muito Rápido",
+        "benefits": "Fixação intensa de nitrogênio, sombreamento rápido de clareiras e frutos comestíveis.",
+        "description": "Pioneira imbatível na recuperação inicial de solos compactados e SAFs.",
+        "idealSoil": "Adapta-se a solos ácidos e degradados"
+      }
+    ]
+  },
+  "BA": {
+    "code": "BA",
+    "name": "Bahia",
+    "priorityLevel": "Urgente",
+    "ecologicalGuidelines": [
+      "Recuperação de nascentes das bacias do São Francisco e Paraguaçu",
+      "Implantação de quebra-ventos biológicos e barragens sucessivas de retenção",
+      "Reflorestamento consorciado através do sistema agroflorestal Cabruca no sul"
+    ],
+    "recommendedPlants": [
+      {
+        "name": "Juazeiro",
+        "scientificName": "Sarcomphalus joazeiro",
+        "type": "Clímax",
+        "growthRate": "Médio",
+        "benefits": "Mantém folhas verdes na seca extrema, fixa solos áridos e fornece frutos para a fauna.",
+        "description": "Símbolo de resistência do sertão, com raízes de até 15 metros.",
+        "idealSoil": "Solos secos, pedregosos e arenosos"
+      },
+      {
+        "name": "Aroeira-do-Sertão",
+        "scientificName": "Myracrodruon urundeuva",
+        "type": "Secundária",
+        "growthRate": "Médio",
+        "benefits": "Madeira incorruptível, alta resiliência a solos erodidos e excelente melífera.",
+        "description": "Árvore nobre de proteção rigorosa contra desmatamento.",
+        "idealSoil": "Solos calcários e encostas secas"
+      },
+      {
+        "name": "Ipê-Roxo-da-Mata",
+        "scientificName": "Handroanthus impetiginosus",
+        "type": "Secundária",
+        "growthRate": "Médio",
+        "benefits": "Floração ornamental de inverno, restauração de áreas de transição e apoio a polinizadores.",
+        "description": "Árvore de tronco reto com deslumbrante copa púrpura.",
+        "idealSoil": "Solos bem drenados"
+      }
+    ]
+  },
+  "CE": {
+    "code": "CE",
+    "name": "Ceará",
+    "priorityLevel": "Urgente",
+    "ecologicalGuidelines": [
+      "Bioengenharia com curvas de nível e barramentos de pedra em Irauçuba",
+      "Preservação dos \"brejos de altitude\" (Guaramiranga, Baturité)",
+      "Mudas nativas irrigadas com microaçudes de retenção pluvial"
+    ],
+    "recommendedPlants": [
+      {
+        "name": "Carnaúba (Árvore da Vida)",
+        "scientificName": "Copernicia prunifera",
+        "type": "Pioneira",
+        "growthRate": "Médio",
+        "benefits": "Protege calhas fluviais do assoreamento, cera sustentável e altíssima rusticidade.",
+        "description": "Símbolo cearense que sobrevive a ciclos de inundação e secas bravas.",
+        "idealSoil": "Solos aluviais e várzeas"
+      },
+      {
+        "name": "Sabiá",
+        "scientificName": "Mimosa caesalpiniifolia",
+        "type": "Pioneira",
+        "growthRate": "Muito Rápido",
+        "benefits": "Fixação de nitrogênio, regeneração acelerada de solos degradados e excelente rebrota.",
+        "description": "Pioneira nativa imprescindível para recomposição florestal no semiárido.",
+        "idealSoil": "Solos pobres, degradados e pedregosos"
+      },
+      {
+        "name": "Mandacaru",
+        "scientificName": "Cereus jamacaru",
+        "type": "Pioneira",
+        "growthRate": "Rápido",
+        "benefits": "Retém umidade subterrânea, pioneira em solos rochosos e alimento hídrico para fauna.",
+        "description": "Cacto colunar icônico que coloniza terrenos áridos desprovidos de terra arável.",
+        "idealSoil": "Solos rasos e pedregosos"
+      }
+    ]
+  },
+  "DF": {
+    "code": "DF",
+    "name": "Distrito Federal",
+    "priorityLevel": "Alta",
+    "ecologicalGuidelines": [
+      "Restauração das matas de galeria para segurança hídrica",
+      "Paisagismo urbano com espécies nativas do Cerrado",
+      "Substituição de gramíneas exóticas por vegetação nativa do bioma"
+    ],
+    "recommendedPlants": [
+      {
+        "name": "Pequizeiro",
+        "scientificName": "Caryocar brasiliense",
+        "type": "Clímax",
+        "growthRate": "Lento",
+        "benefits": "Símbolo culinário e ecológico, casca resistente ao fogo e frutos nutritivos.",
+        "description": "Árvore de galhos retorcidos adaptada aos solos ácidos do Planalto Central.",
+        "idealSoil": "Latossolos vermelhos profundos"
+      },
+      {
+        "name": "Ipê-Amarelo-do-Cerrado",
+        "scientificName": "Handroanthus ochraceus",
+        "type": "Secundária",
+        "growthRate": "Médio",
+        "benefits": "Floração magnífica na estiagem de agosto/setembro, polinização e beleza cênica.",
+        "description": "A árvore mais fotografada de Brasília.",
+        "idealSoil": "Solos bem drenados"
+      },
+      {
+        "name": "Buriti",
+        "scientificName": "Mauritia flexuosa",
+        "type": "Clímax",
+        "growthRate": "Médio",
+        "benefits": "Árvore indicadora de água, garante a sobrevivência de veredas e nascentes.",
+        "description": "Palmeira soberba indispensável para o equilíbrio hidrológico do Cerrado.",
+        "idealSoil": "Solos saturados em água (veredas)"
+      }
+    ]
+  },
+  "ES": {
+    "code": "ES",
+    "name": "Espírito Santo",
+    "priorityLevel": "Alta",
+    "ecologicalGuidelines": [
+      "Restauração das sub-bacias do Rio Doce e Santa Maria da Vitória",
+      "Consórcios de café conilon com árvores nativas de sombra",
+      "Conexão de fragmentos da Floresta de Tabuleiros"
+    ],
+    "recommendedPlants": [
+      {
+        "name": "Jequitibá-Rosa",
+        "scientificName": "Cariniana legalis",
+        "type": "Clímax",
+        "growthRate": "Lento",
+        "benefits": "O gigante da Mata Atlântica capixaba, retenção maciça de carbono e abrigo de epífitas.",
+        "description": "Árvore secular de grande imponência e valor biológico.",
+        "idealSoil": "Solos profundos e férteis"
+      },
+      {
+        "name": "Palmito-Juçara",
+        "scientificName": "Euterpe edulis",
+        "type": "Secundária",
+        "growthRate": "Médio",
+        "benefits": "Alimento primário para mais de 50 espécies de pássaros e mamíferos.",
+        "description": "Espécie-chave ameaçada, hoje preservada pelo extrativismo da polpa de seu fruto.",
+        "idealSoil": "Subosque úmido e sombreado"
+      },
+      {
+        "name": "Embaúba-Prateada",
+        "scientificName": "Cecropia hololeuca",
+        "type": "Pioneira",
+        "growthRate": "Muito Rápido",
+        "benefits": "Folhas prateadas, rápido fechamento de clareiras e atração intensa de fauna dispersora.",
+        "description": "Árvore de transição típica das encostas da serra capixaba.",
+        "idealSoil": "Solos degradados e bordas florestais"
+      }
+    ]
+  },
+  "GO": {
+    "code": "GO",
+    "name": "Goiás",
+    "priorityLevel": "Alta",
+    "ecologicalGuidelines": [
+      "Proteção das nascentes do Planalto Central que alimentam o Tocantins, Paraná e São Francisco",
+      "Contenção física e vegetal de voçorocas",
+      "Integração Lavoura-Pecuária-Floresta (ILPF) com essências nativas"
+    ],
+    "recommendedPlants": [
+      {
+        "name": "Baru",
+        "scientificName": "Dipteryx alata",
+        "type": "Secundária",
+        "growthRate": "Médio",
+        "benefits": "Castanha nobre comestível, fixação biológica de nitrogênio e enriquecimento de pastos.",
+        "description": "Árvore de copa frondosa que mantém sombra densa nos meses secos.",
+        "idealSoil": "Solos profundos e argilosos"
+      },
+      {
+        "name": "Jatobá-do-Cerrado",
+        "scientificName": "Hymenaea stigonocarpa",
+        "type": "Clímax",
+        "growthRate": "Lento",
+        "benefits": "Resina nobre, frutos nutritivos para fauna silvestre e raízes profundas.",
+        "description": "Tronco suberoso com incrível resistência ao fogo natural.",
+        "idealSoil": "Solos bem drenados"
+      },
+      {
+        "name": "Mutamba",
+        "scientificName": "Guazuma ulmifolia",
+        "type": "Pioneira",
+        "growthRate": "Rápido",
+        "benefits": "Pioneira rústica, forragem para animais durante secas e melífera.",
+        "description": "Excelente para iniciar a cobertura verde em solos compactados.",
+        "idealSoil": "Solos degradados e pastagens abandonadas"
+      }
+    ]
+  },
+  "MA": {
+    "code": "MA",
+    "name": "Maranhão",
+    "priorityLevel": "Urgente",
+    "ecologicalGuidelines": [
+      "Preservação da Zona dos Cocais como amortecedor ecológico",
+      "Controle do desmatamento no sul do estado",
+      "Recuperação de mangues da Reentrâncias Maranhenses"
+    ],
+    "recommendedPlants": [
+      {
+        "name": "Babaçu",
+        "scientificName": "Attalea speciosa",
+        "type": "Pioneira",
+        "growthRate": "Médio",
+        "benefits": "Sustenta comunidades quebradeiras de coco, regenera solos degradados e gera biomassa.",
+        "description": "Palmeira dominante dos cocais maranhenses de alta resiliência.",
+        "idealSoil": "Solos profundos e de transição"
+      },
+      {
+        "name": "Bacuri",
+        "scientificName": "Platonia insignis",
+        "type": "Secundária",
+        "growthRate": "Lento",
+        "benefits": "Fruta nobre nativa de alto apreço gastronômico, proteção contra erosão eólica.",
+        "description": "Árvore imponente com raízes gemíferas que brotam vigorosamente após o fogo.",
+        "idealSoil": "Solos arenosos e latossolos"
+      },
+      {
+        "name": "Gonçalo-Alves",
+        "scientificName": "Astronium fraxinifolium",
+        "type": "Secundária",
+        "growthRate": "Médio",
+        "benefits": "Madeira nobre decorativa, retenção de solo em encostas e resistência à seca.",
+        "description": "Árvore vigorosa com folhas compostas e alta rusticidade.",
+        "idealSoil": "Solos pedregosos e bem drenados"
+      }
+    ]
+  },
+  "MT": {
+    "code": "MT",
+    "name": "Mato Grosso",
+    "priorityLevel": "Urgente",
+    "ecologicalGuidelines": [
+      "Reflorestamento prioritário das cabeceiras dos rios Paraguai, Cuiabá e Teles Pires",
+      "Muvuca de sementes nativas em larga escala (Rede de Sementes do Xingu)",
+      "Restauração de corredores ecológicos de transição Amazônia-Cerrado"
+    ],
+    "recommendedPlants": [
+      {
+        "name": "Cumaru",
+        "scientificName": "Dipteryx odorata",
+        "type": "Clímax",
+        "growthRate": "Médio",
+        "benefits": "Semente perfumada (fava tonka), madeira resistente e alta fixação de carbono.",
+        "description": "Árvore majestosa da floresta de transição amazônica.",
+        "idealSoil": "Solos profundos e argilosos"
+      },
+      {
+        "name": "Ipê-Rosa",
+        "scientificName": "Handroanthus heptaphyllus",
+        "type": "Secundária",
+        "growthRate": "Médio",
+        "benefits": "Restauração de matas ciliares e encostas, suporte a abelhas nativas.",
+        "description": "Cresce vigorosamente em vales fluviais e baixadas úmidas.",
+        "idealSoil": "Solos úmidos e férteis"
+      },
+      {
+        "name": "Jenipapo",
+        "scientificName": "Genipa americana",
+        "type": "Pioneira",
+        "growthRate": "Rápido",
+        "benefits": "Resiste a inundações periódicas do Pantanal, frutos alimentícios e corante azul natural.",
+        "description": "Árvore fundamental na recomposição de várzeas e beiras de corixos pantaneiros.",
+        "idealSoil": "Solos encharcados e várzeas"
+      }
+    ]
+  },
+  "MS": {
+    "code": "MS",
+    "name": "Mato Grosso do Sul",
+    "priorityLevel": "Alta",
+    "ecologicalGuidelines": [
+      "Restauração das bacias de rios cársticos em Bonito",
+      "Manejo integrado do fogo na planície pantaneira",
+      "Reflorestamento de cordilheiras e capões degradados"
+    ],
+    "recommendedPlants": [
+      {
+        "name": "Piúva (Ipê-Roxo-do-Pantanal)",
+        "scientificName": "Handroanthus impetiginosus",
+        "type": "Secundária",
+        "growthRate": "Médio",
+        "benefits": "Floração icônica nas savanas pantaneiras, suporte para ninhos de tuiuiú.",
+        "description": "Símbolo da paisagem do Pantanal, sobrevive a regimes de cheia e seca.",
+        "idealSoil": "Solos aluviais e cordilheiras arenosas"
+      },
+      {
+        "name": "Acuri",
+        "scientificName": "Attalea phalerata",
+        "type": "Pioneira",
+        "growthRate": "Médio",
+        "benefits": "Alimento exclusivo da Arara-Azul, resiste a queimadas e regenera capões.",
+        "description": "Palmeira-chave na teia trófica de todo o ecossistema pantaneiro.",
+        "idealSoil": "Capões e solos arenosos"
+      },
+      {
+        "name": "Angico-Vermelho",
+        "scientificName": "Anadenanthera colubrina",
+        "type": "Pioneira",
+        "growthRate": "Rápido",
+        "benefits": "Fixação de nitrogênio, alta densidade de madeira e rápida cobertura de clareiras.",
+        "description": "Árvore de casca escura com fissuras, ótima pioneira para solos calcários e secos.",
+        "idealSoil": "Solos calcários e secos"
+      }
+    ]
+  },
+  "MG": {
+    "code": "MG",
+    "name": "Minas Gerais",
+    "priorityLevel": "Urgente",
+    "ecologicalGuidelines": [
+      "Restauração das nascentes históricas do Rio São Francisco na Serra da Canastra",
+      "Recuperação de bacias degradadas por rejeitos de mineração",
+      "Implantação de SAFs consorciados no Vale do Jequitinhonha"
+    ],
+    "recommendedPlants": [
+      {
+        "name": "Candeia",
+        "scientificName": "Eremanthus erythropappus",
+        "type": "Pioneira",
+        "growthRate": "Rápido",
+        "benefits": "Produção de óleo de alfa-bisabolol, regeneração de topos de morro e campos rupestres.",
+        "description": "Pioneira rústica por excelência das serras e espinhaços mineiros.",
+        "idealSoil": "Solos rasos, pedregosos e montanhosos"
+      },
+      {
+        "name": "Jequitibá-Branco",
+        "scientificName": "Cariniana estrellensis",
+        "type": "Clímax",
+        "growthRate": "Lento",
+        "benefits": "Proteção de vertentes íngremes, retenção gigantesca de água e estoques de biomassa.",
+        "description": "Árvore secular emblemática das florestas de encosta de Minas Gerais.",
+        "idealSoil": "Solos férteis de encosta"
+      },
+      {
+        "name": "Gonçalo-do-Cerrado",
+        "scientificName": "Platypodium elegans",
+        "type": "Secundária",
+        "growthRate": "Médio",
+        "benefits": "Polinização por abelhas sem ferrão e enriquecimento florestal de pastos degradados.",
+        "description": "Árvore de copa graciosa e flores amarelas muito perfumadas.",
+        "idealSoil": "Latossolos e solos de textura média"
+      }
+    ]
+  },
+  "PA": {
+    "code": "PA",
+    "name": "Pará",
+    "priorityLevel": "Urgente",
+    "ecologicalGuidelines": [
+      "Bioeconomia com Açaí e Cacau consorciados em Sistemas Agroflorestais",
+      "Reflorestamento de faixas de proteção ecológica na BR-163 e Transamazônica",
+      "Regeneração natural assistida sem fogo"
+    ],
+    "recommendedPlants": [
+      {
+        "name": "Cacau Nativo Amazônico",
+        "scientificName": "Theobroma cacao",
+        "type": "Secundária",
+        "growthRate": "Médio",
+        "benefits": "Restauração produtiva de altíssima rentabilidade econômica e sequestro de carbono.",
+        "description": "Nativo do sub-bosque paraense, prospera sob a sombra de grandes árvores.",
+        "idealSoil": "Solos aluviais e ricos em matéria orgânica"
+      },
+      {
+        "name": "Mogno-Brasileiro",
+        "scientificName": "Swietenia macrophylla",
+        "type": "Clímax",
+        "growthRate": "Médio",
+        "benefits": "Espécie nobre criticamente protegida, restaura o estrato superior da floresta.",
+        "description": "O \"ouro verde\" do Pará, símbolo do reflorestamento responsável.",
+        "idealSoil": "Solos profundos e férteis"
+      },
+      {
+        "name": "Paricá",
+        "scientificName": "Schizolobium parahyba var. amazonicum",
+        "type": "Pioneira",
+        "growthRate": "Muito Rápido",
+        "benefits": "Crescimento de até 4 metros por ano, quebra compactação de solo e dá sombra rápida.",
+        "description": "Excelente para iniciar projetos de restauração em pastagens sujas.",
+        "idealSoil": "Solos arenosos ou argilosos bem drenados"
+      }
+    ]
+  },
+  "PB": {
+    "code": "PB",
+    "name": "Paraíba",
+    "priorityLevel": "Urgente",
+    "ecologicalGuidelines": [
+      "Barramentos de pedra sucessivos (suvalos) para retenção de água e sedimentos",
+      "Plantio de leguminosas xerófilas para diminuir temperatura do solo",
+      "Manejo rotacionado de caprinos"
+    ],
+    "recommendedPlants": [
+      {
+        "name": "Umbu-Cajá",
+        "scientificName": "Spondias bahiensis",
+        "type": "Pioneira",
+        "growthRate": "Médio",
+        "benefits": "Reserva hídrica radical, segurança alimentar e contenção da aridez extrema.",
+        "description": "Árvore adaptada às piores secas do semiárido nordestino.",
+        "idealSoil": "Solos rasos e pedregosos"
+      },
+      {
+        "name": "Catingueira",
+        "scientificName": "Cenostigma pyramidale",
+        "type": "Pioneira",
+        "growthRate": "Rápido",
+        "benefits": "Primeira planta a rebrotar na primeira chuva, estabilização de encostas e forragem.",
+        "description": "A árvore mais resiliente e marcante da paisagem paraibana.",
+        "idealSoil": "Solos pedregosos e cristalinos"
+      },
+      {
+        "name": "Baraúna",
+        "scientificName": "Schinopsis brasiliensis",
+        "type": "Clímax",
+        "growthRate": "Lento",
+        "benefits": "Sombra duradoura, madeira densa e ancoragem profunda do lençol freático.",
+        "description": "Árvore majestosa da Caatinga que necessita de proteção urgente.",
+        "idealSoil": "Solos calcários e profundos"
+      }
+    ]
+  },
+  "PR": {
+    "code": "PR",
+    "name": "Paraná",
+    "priorityLevel": "Alta",
+    "ecologicalGuidelines": [
+      "Restauração emergencial da Floresta com Araucária (Mata Ombrófila Mista)",
+      "Criação de corredores ecológicos conectando o Parque Nacional do Iguaçu",
+      "Consórcio com erva-mate sombreada sob o dossel"
+    ],
+    "recommendedPlants": [
+      {
+        "name": "Araucária (Pinheiro-do-Paraná)",
+        "scientificName": "Araucaria angustifolia",
+        "type": "Clímax",
+        "growthRate": "Lento",
+        "benefits": "Produção do pinhão (alimenta a fauna no inverno rigoroso) e estocagem massiva de carbono.",
+        "description": "Árvore monumento do Paraná com formato clássico de taça.",
+        "idealSoil": "Solos profundos, ricos e bem drenados"
+      },
+      {
+        "name": "Erva-Mate",
+        "scientificName": "Ilex paraguariensis",
+        "type": "Secundária",
+        "growthRate": "Médio",
+        "benefits": "Sustentabilidade econômica com manejo sob a sombra da mata nativa.",
+        "description": "Espécie nativa indispensável para a regeneração do sub-bosque paranaense.",
+        "idealSoil": "Solos argilosos e ácidos de altitude"
+      },
+      {
+        "name": "Bracatinga",
+        "scientificName": "Mimosa scabrella",
+        "type": "Pioneira",
+        "growthRate": "Muito Rápido",
+        "benefits": "Fixação de nitrogênio no solo frio, produção de mel no inverno e rápida biomassa.",
+        "description": "Pioneira com crescimento explosivo em áreas degradadas do planalto.",
+        "idealSoil": "Solos ácidos e empobrecidos"
+      }
+    ]
+  },
+  "PE": {
+    "code": "PE",
+    "name": "Pernambuco",
+    "priorityLevel": "Urgente",
+    "ecologicalGuidelines": [
+      "Criação de florestas energéticas dedicadas para o Polo Gesseiro com espécies nativas",
+      "Restauração de matas ciliares do Rio Capibaribe e São Francisco",
+      "Instalação de barraginhas e microbacias de contenção"
+    ],
+    "recommendedPlants": [
+      {
+        "name": "Angico-de-Bezerro",
+        "scientificName": "Piptadenia moniliformis",
+        "type": "Pioneira",
+        "growthRate": "Rápido",
+        "benefits": "Fixação de nitrogênio, alta resiliência à seca e contenção de encostas erodidas.",
+        "description": "Excelente para o restauro inicial de áreas degradadas da Caatinga pernambucana.",
+        "idealSoil": "Solos arenosos e degradados"
+      },
+      {
+        "name": "Mulungu",
+        "scientificName": "Erythrina velutina",
+        "type": "Secundária",
+        "growthRate": "Rápido",
+        "benefits": "Floração vermelha que atrai beija-flores, excelente sombra e propriedades medicinais.",
+        "description": "Árvore de tronco espinhoso adaptada a baixadas úmidas do semiárido.",
+        "idealSoil": "Solos aluviais e margens de riachos"
+      },
+      {
+        "name": "Ipê-Amarelo-da-Serra",
+        "scientificName": "Handroanthus chrysotrichus",
+        "type": "Secundária",
+        "growthRate": "Médio",
+        "benefits": "Restauração de brejos de altitude e fragmentos serranos de Mata Atlântica.",
+        "description": "Floração dourada espetacular que anuncia o início da primavera.",
+        "idealSoil": "Solos bem drenados"
+      }
+    ]
+  },
+  "PI": {
+    "code": "PI",
+    "name": "Piauí",
+    "priorityLevel": "Urgente",
+    "ecologicalGuidelines": [
+      "Contenção física e biológica das voçorocas de Gilbués com leguminosas profundas",
+      "Preservação estrita das nascentes da bacia do Rio Parnaíba",
+      "Consórcios de SAFs adaptados à seca com cactos e árvores nativas"
+    ],
+    "recommendedPlants": [
+      {
+        "name": "Fava d’Anta",
+        "scientificName": "Dimorphandra mollis",
+        "type": "Pioneira",
+        "growthRate": "Médio",
+        "benefits": "Produção de rutina medicinal, fixação biológica de nitrogênio e fixação de areias soltas.",
+        "description": "Árvore do cerrado piauiense capaz de colonizar areia pura e voçorocas.",
+        "idealSoil": "Solos arenosos e degradados"
+      },
+      {
+        "name": "Pau-Ferro",
+        "scientificName": "Libidibia ferrea",
+        "type": "Secundária",
+        "growthRate": "Médio",
+        "benefits": "Tronco liso escultural, raízes ancoradoras e frutos ricos em tanino para a fauna.",
+        "description": "Árvore de alta dureza nativa da Caatinga e transição.",
+        "idealSoil": "Solos profundos e encostas"
+      },
+      {
+        "name": "Cajuí",
+        "scientificName": "Anacardium humile",
+        "type": "Pioneira",
+        "growthRate": "Rápido",
+        "benefits": "Raízes subterrâneas monumentais que seguram o solo contra a erosão em Gilbués.",
+        "description": "Caju rasteiro com xilopódios subterrâneos de alta resistência térmica.",
+        "idealSoil": "Solos arenosos de voçorocas"
+      }
+    ]
+  },
+  "RJ": {
+    "code": "RJ",
+    "name": "Rio de Janeiro",
+    "priorityLevel": "Alta",
+    "ecologicalGuidelines": [
+      "Restauração de encostas para estabilização geológica na Região Serrana",
+      "Reflorestamento de bacias produtoras de água (Sistema Guandu)",
+      "Proteção e reflorestamento de restingas e mangues da Guanabara"
+    ],
+    "recommendedPlants": [
+      {
+        "name": "Pau-Formiga",
+        "scientificName": "Triplaris americana",
+        "type": "Pioneira",
+        "growthRate": "Muito Rápido",
+        "benefits": "Estabilização veloz de taludes instáveis e floração ornamental avermelhada.",
+        "description": "Pioneira de fuste reto perfeita para contenção de deslizamentos.",
+        "idealSoil": "Encostas e solos úmidos"
+      },
+      {
+        "name": "Guapuruvu",
+        "scientificName": "Schizolobium parahyba",
+        "type": "Pioneira",
+        "growthRate": "Extremamente Rápido",
+        "benefits": "Crescimento explosivo inicial, fechamento rápido do dossel e alimento para polinizadores.",
+        "description": "A majestosa pioneira da Serra dos Órgãos e Serra do Mar.",
+        "idealSoil": "Encostas degradadas"
+      },
+      {
+        "name": "Ingá-Feijão",
+        "scientificName": "Inga marginata",
+        "type": "Secundária",
+        "growthRate": "Rápido",
+        "benefits": "Fixação de nitrogênio e proteção de matas ciliares na bacia do Guandu.",
+        "description": "Árvore de beira de rio com frutos doces e copa protetora.",
+        "idealSoil": "Margens fluviais"
+      }
+    ]
+  },
+  "RN": {
+    "code": "RN",
+    "name": "Rio Grande do Norte",
+    "priorityLevel": "Urgente",
+    "ecologicalGuidelines": [
+      "Recomposição do Seridó com suculentas e leguminosas adaptadas",
+      "Controle de voçorocas e erosão eólica em campos abertos",
+      "Uso de barragens subterrâneas para preservação hídrica do solo"
+    ],
+    "recommendedPlants": [
+      {
+        "name": "Jurema-Preta",
+        "scientificName": "Mimosa tenuiflora",
+        "type": "Pioneira",
+        "growthRate": "Muito Rápido",
+        "benefits": "Fixa nitrogênio no solo crestado, resiste às piores estiagens e dá abrigo térmico.",
+        "description": "A rainha da sobrevivência da caatinga potiguar.",
+        "idealSoil": "Solos secos, rasos e degradados"
+      },
+      {
+        "name": "Mororó (Pata-de-Vaca)",
+        "scientificName": "Bauhinia cheilantha",
+        "type": "Pioneira",
+        "growthRate": "Rápido",
+        "benefits": "Forragem na seca, propriedades medicinais e ancoragem de solo pedregoso.",
+        "description": "Pequena árvore muito resistente que suporta calor intenso.",
+        "idealSoil": "Solos pedregosos e encostas"
+      },
+      {
+        "name": "Oiticica",
+        "scientificName": "Licania rigida",
+        "type": "Clímax",
+        "growthRate": "Lento",
+        "benefits": "Copa monumental verde durante todo o ano, protege leitos secos de rios contra a evaporação.",
+        "description": "Árvore sagrada dos sertões que sombreia os leitos dos rios temporários.",
+        "idealSoil": "Várzeas e margens de rios"
+      }
+    ]
+  },
+  "RS": {
+    "code": "RS",
+    "name": "Rio Grande do Sul",
+    "priorityLevel": "Urgente",
+    "ecologicalGuidelines": [
+      "Restauração de Matas Ciliares e bacias de contenção (Taquari, Jacuí) para amortecer enchentes",
+      "Contenção biológica dos areais do Sudoeste com arbustos nativos",
+      "Preservação da vegetação campestre com pastoreio sustentável"
+    ],
+    "recommendedPlants": [
+      {
+        "name": "Corticeira-do-Banhado",
+        "scientificName": "Erythrina crista-galli",
+        "type": "Pioneira",
+        "growthRate": "Rápido",
+        "benefits": "Flor símbolo do RS, resiste a grandes cheias, estabiliza margens e banhados.",
+        "description": "Árvore de tronco rugoso e flores vermelho-carmesim deslumbrantes.",
+        "idealSoil": "Solos encharcados, banhados e margens de arroios"
+      },
+      {
+        "name": "Tarumã",
+        "scientificName": "Citharexylum montevidense",
+        "type": "Secundária",
+        "growthRate": "Médio",
+        "benefits": "Frutos muito apreciados por peixes e aves aquáticas, retém margens fluviais.",
+        "description": "Árvore típica de matas ciliares dos arroios gaúchos.",
+        "idealSoil": "Solos úmidos de várzea"
+      },
+      {
+        "name": "Guajuvira",
+        "scientificName": "Cordia americana",
+        "type": "Clímax",
+        "growthRate": "Médio",
+        "benefits": "Madeira nobre e flexível, atrai polinizadores e recompõe matas de encosta.",
+        "description": "Árvore imponente da floresta estacional do Rio Grande do Sul.",
+        "idealSoil": "Solos férteis e encostas"
+      }
+    ]
+  },
+  "RO": {
+    "code": "RO",
+    "name": "Rondônia",
+    "priorityLevel": "Urgente",
+    "ecologicalGuidelines": [
+      "Recuperação de APPs hídricas na agricultura familiar",
+      "Consórcios de Café Robusta Amazônico em SAFs agroecológicos",
+      "Recomposição da borda de Unidades de Conservação invadidas"
+    ],
+    "recommendedPlants": [
+      {
+        "name": "Cerejeira-da-Amazônia (Amburana)",
+        "scientificName": "Amburana acreana",
+        "type": "Clímax",
+        "growthRate": "Médio",
+        "benefits": "Sementes aromáticas medicinais, madeira nobre e proteção da fauna florestal.",
+        "description": "Árvore majestosa e rara que necessita de repovoamento prioritário.",
+        "idealSoil": "Solos profundos e bem drenados"
+      },
+      {
+        "name": "Bandarra",
+        "scientificName": "Schizolobium amazonicum",
+        "type": "Pioneira",
+        "growthRate": "Muito Rápido",
+        "benefits": "Crescimento hiper-rápido, rápido sombreamento e regeneração do solo.",
+        "description": "Pioneira chave para recuperação expressa de áreas abertas em Rondônia.",
+        "idealSoil": "Solos descompactados"
+      },
+      {
+        "name": "Pupunheira",
+        "scientificName": "Bactris gasipaes",
+        "type": "Pioneira",
+        "growthRate": "Rápido",
+        "benefits": "Palmito sustentável que perfilha sem matar a planta e frutos nutritivos.",
+        "description": "Palmeira multicaule nativa fundamental para SAFs amazônicos.",
+        "idealSoil": "Solos argilosos e úmidos"
+      }
+    ]
+  },
+  "RR": {
+    "code": "RR",
+    "name": "Roraima",
+    "priorityLevel": "Alta",
+    "ecologicalGuidelines": [
+      "Descontaminação e recomposição de matas ciliares degradadas por garimpo",
+      "Manejo integrado do fogo nas savanas do Lavrado",
+      "Plantio de espécies nativas frutíferas para comunidades indígenas"
+    ],
+    "recommendedPlants": [
+      {
+        "name": "Paricarana",
+        "scientificName": "Bowdichia virgilioides",
+        "type": "Pioneira",
+        "growthRate": "Médio",
+        "benefits": "Fixadora de nitrogênio, resistente a queimadas e pioneira na savana do Lavrado.",
+        "description": "Árvore de tronco retorcido e flores arroxeadas muito rústica.",
+        "idealSoil": "Solos arenosos e secos do Lavrado"
+      },
+      {
+        "name": "Camu-Camu",
+        "scientificName": "Myrciaria dubia",
+        "type": "Secundária",
+        "growthRate": "Médio",
+        "benefits": "Teor elevadíssimo de vitamina C, excelente para beiras de rios e igapós.",
+        "description": "Arbusto ribeirinho que suporta ficar submerso por meses na cheia.",
+        "idealSoil": "Margens inundáveis de rios amazônicos"
+      },
+      {
+        "name": "Murici-do-Lavrado",
+        "scientificName": "Byrsonima crassifolia",
+        "type": "Pioneira",
+        "growthRate": "Médio",
+        "benefits": "Resistência ao fogo, frutos ricos em óleos para a fauna e fixação de areais.",
+        "description": "Árvore adaptada às condições de alta radiação solar de Roraima.",
+        "idealSoil": "Solos ácidos e arenosos"
+      }
+    ]
+  },
+  "SC": {
+    "code": "SC",
+    "name": "Santa Catarina",
+    "priorityLevel": "Média",
+    "ecologicalGuidelines": [
+      "Restauração de encostas e matas ciliares no Vale do Itajaí para amortecimento de cheias",
+      "Erradicação de pinus exótico invasor nos campos de altitude",
+      "Enriquecimento com espécies nobres da Mata Atlântica"
+    ],
+    "recommendedPlants": [
+      {
+        "name": "Canela-Preta",
+        "scientificName": "Ocotea catharinensis",
+        "type": "Clímax",
+        "growthRate": "Lento",
+        "benefits": "Árvore símbolo da mata catarinense, abrigo de epífitas e aves de grande porte.",
+        "description": "Espécie nobre que foi intensamente explorada no passado e requer repovoamento.",
+        "idealSoil": "Solos profundos e úmidos de encosta"
+      },
+      {
+        "name": "Imbuia",
+        "scientificName": "Ocotea porosa",
+        "type": "Clímax",
+        "growthRate": "Muito Lento",
+        "benefits": "Vive centenas de anos, estoca carbono duradouro e possui altíssimo valor ecológico.",
+        "description": "A rainha das matas do planalto serrano catarinense, protegida por lei.",
+        "idealSoil": "Solos argilosos e úmidos"
+      },
+      {
+        "name": "Guanandi",
+        "scientificName": "Calophyllum brasiliense",
+        "type": "Secundária",
+        "growthRate": "Médio",
+        "benefits": "Tolerância a solos encharcados, raízes que impedem desbarrancamento fluvial.",
+        "description": "Árvore de fuste reto com látex medicinal amarelado.",
+        "idealSoil": "Solos hidromórficos e planícies litorâneas"
+      }
+    ]
+  },
+  "SP": {
+    "code": "SP",
+    "name": "São Paulo",
+    "priorityLevel": "Alta",
+    "ecologicalGuidelines": [
+      "Restauração de APPs hídricas do Sistema Cantareira e Bacia do Paraíba do Sul",
+      "Corredores ecológicos conectando a Serra do Mar e o interior paulista",
+      "Muvuca e plantio com alta diversidade (> 60 espécies nativas/hectare)"
+    ],
+    "recommendedPlants": [
+      {
+        "name": "Ipê-Amarelo-da-Mata",
+        "scientificName": "Handroanthus albus",
+        "type": "Secundária",
+        "growthRate": "Médio",
+        "benefits": "Floração dourada no inverno, suporte maciço para insetos e polinizadores.",
+        "description": "Símbolo clássico da flora brasileira.",
+        "idealSoil": "Solos férteis e bem drenados"
+      },
+      {
+        "name": "Pau-Jacaré",
+        "scientificName": "Piptadenia gonoacantha",
+        "type": "Pioneira",
+        "growthRate": "Muito Rápido",
+        "benefits": "Fixa nitrogênio, fecha o dossel em 2 anos e casca resistente.",
+        "description": "Uma das melhores pioneiras para restauração de solos degradados em SP.",
+        "idealSoil": "Solos argilosos e encostas"
+      },
+      {
+        "name": "Piteira / Guaritá",
+        "scientificName": "Astronium graveolens",
+        "type": "Clímax",
+        "growthRate": "Lento",
+        "benefits": "Madeira nobre de alta densidade, fixação perene de carbono e abrigo de fauna.",
+        "description": "Árvore de grande porte das florestas estacionais do interior paulista.",
+        "idealSoil": "Solos profundos e terra roxa"
+      }
+    ]
+  },
+  "SE": {
+    "code": "SE",
+    "name": "Sergipe",
+    "priorityLevel": "Urgente",
+    "ecologicalGuidelines": [
+      "Reflorestamento emergencial das margens do Baixo São Francisco para conter assoreamento",
+      "Restauração de restingas e mangues na foz dos rios Sergipe e Vaza-Barris",
+      "Implantação de SAFs xerófilos com cactos e árvores nativas"
+    ],
+    "recommendedPlants": [
+      {
+        "name": "Quixabeira",
+        "scientificName": "Sideroxylon obtusifolium",
+        "type": "Clímax",
+        "growthRate": "Lento",
+        "benefits": "Propriedades medicinais, frutos apreciados pela avifauna e extrema longevidade.",
+        "description": "Árvore de grande porte resistente à aridez sertaneja.",
+        "idealSoil": "Solos aluviais e baixadas secas"
+      },
+      {
+        "name": "Mulungu-do-Litoral",
+        "scientificName": "Erythrina speciosa",
+        "type": "Pioneira",
+        "growthRate": "Rápido",
+        "benefits": "Fixação de nitrogênio em solos hidromórficos e atração de beija-flores.",
+        "description": "Árvore adaptada a solos pantanosos e várzeas litorâneas.",
+        "idealSoil": "Solos úmidos e restingas"
+      },
+      {
+        "name": "Pereiro",
+        "scientificName": "Aspidosperma pyrifolium",
+        "type": "Pioneira",
+        "growthRate": "Rápido",
+        "benefits": "Pioneira em solos pedregosos e secos, folhas que nutrem o solo após a queda.",
+        "description": "Árvore de casca amargosa resistente a pragas e sol abrasador.",
+        "idealSoil": "Solos rasos e pedregosos"
+      }
+    ]
+  },
+  "TO": {
+    "code": "TO",
+    "name": "Tocantins",
+    "priorityLevel": "Urgente",
+    "ecologicalGuidelines": [
+      "Manejo Integrado do Fogo (MIF) com queimas preventivas na transição Cerrado-Amazônia",
+      "Preservação rigorosa de veredas e campos de Capim Dourado no Jalapão",
+      "Restauração das matas ciliares da Bacia Araguaia-Tocantins"
+    ],
+    "recommendedPlants": [
+      {
+        "name": "Fava-de-Bolota",
+        "scientificName": "Parkia pendula",
+        "type": "Clímax",
+        "growthRate": "Médio",
+        "benefits": "Dossel espetacular, atração massiva de polinizadores e alta retenção de umidade.",
+        "description": "Árvore monumental com flores suspensas como pompons vermelhos.",
+        "idealSoil": "Solos profundos e matas de galeria"
+      },
+      {
+        "name": "Ipê-Amarelo-Cascudo",
+        "scientificName": "Handroanthus serratifolius",
+        "type": "Secundária",
+        "growthRate": "Médio",
+        "benefits": "Resistência térmica extrema, fixação de encostas e floração radiante.",
+        "description": "Uma das madeiras mais duras e resistentes do bioma Cerrado.",
+        "idealSoil": "Solos bem drenados e pedregosos"
+      },
+      {
+        "name": "Murici-da-Mata",
+        "scientificName": "Byrsonima sericea",
+        "type": "Pioneira",
+        "growthRate": "Rápido",
+        "benefits": "Frutos para aves, rápida colonização de pastos abandonados e flores atrativas de abelhas.",
+        "description": "Pioneira vigorosa de flores amarelas essencial para regeneração no Tocantins.",
+        "idealSoil": "Solos arenosos e latossolos"
+      }
+    ]
+  }
+}

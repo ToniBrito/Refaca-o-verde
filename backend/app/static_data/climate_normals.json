@@ -1,0 +1,245 @@
+{
+  "AC": {
+    "code": "AC",
+    "name": "Acre",
+    "type": "Equatorial Úmido",
+    "description": "Quente e úmido com elevada precipitação e curto período de estiagem.",
+    "avgTemp": "25°C a 27°C",
+    "annualRainfall": "1.800 a 2.200 mm",
+    "drySeason": "Junho a Agosto"
+  },
+  "AL": {
+    "code": "AL",
+    "name": "Alagoas",
+    "type": "Tropical Litorâneo e Semiárido",
+    "description": "Litoral úmido com chuvas no outono/inverno e interior sertanejo com estiagens severas.",
+    "avgTemp": "24°C a 28°C",
+    "annualRainfall": "600 mm (Sertão) a 1.600 mm (Litoral)",
+    "drySeason": "Setembro a Fevereiro"
+  },
+  "AP": {
+    "code": "AP",
+    "name": "Amapá",
+    "type": "Equatorial Superúmido",
+    "description": "Altas temperaturas e índices pluviométricos elevadíssimos durante todo o ano.",
+    "avgTemp": "26°C a 28°C",
+    "annualRainfall": "2.500 a 3.200 mm",
+    "drySeason": "Setembro a Novembro"
+  },
+  "AM": {
+    "code": "AM",
+    "name": "Amazonas",
+    "type": "Equatorial Úmido",
+    "description": "Clima quente e chuvoso o ano todo; floresta densa gerando os \"rios voadores\".",
+    "avgTemp": "26°C a 29°C",
+    "annualRainfall": "2.200 a 3.000 mm",
+    "drySeason": "Julho a Setembro (estiagem leve)"
+  },
+  "BA": {
+    "code": "BA",
+    "name": "Bahia",
+    "type": "Semiárido, Tropical e Tropical Úmido",
+    "description": "Litoral úmido florestado, platôs centrais de cerrado e amplo sertão semiárido quente.",
+    "avgTemp": "22°C a 27°C",
+    "annualRainfall": "400 mm (Sertão) a 2.000 mm (Litoral Sul)",
+    "drySeason": "Maio a Novembro no Semiárido"
+  },
+  "CE": {
+    "code": "CE",
+    "name": "Ceará",
+    "type": "Semiárido Tropical",
+    "description": "Altas temperaturas, forte radiação solar e chuvas irregulares concentradas de fev a mai.",
+    "avgTemp": "26°C a 28°C",
+    "annualRainfall": "500 a 900 mm",
+    "drySeason": "Julho a Dezembro"
+  },
+  "DF": {
+    "code": "DF",
+    "name": "Distrito Federal",
+    "type": "Tropical de Altitude",
+    "description": "Verões chuvosos e amenos; invernos frios e secos com umidade abaixo de 15%.",
+    "avgTemp": "19°C a 24°C",
+    "annualRainfall": "1.400 a 1.600 mm",
+    "drySeason": "Maio a Setembro"
+  },
+  "ES": {
+    "code": "ES",
+    "name": "Espírito Santo",
+    "type": "Tropical Úmido e de Altitude",
+    "description": "Litoral quente com chuvas regulares; região serrana amena e fria no inverno.",
+    "avgTemp": "20°C a 26°C",
+    "annualRainfall": "1.100 a 1.800 mm",
+    "drySeason": "Junho a Agosto"
+  },
+  "GO": {
+    "code": "GO",
+    "name": "Goiás",
+    "type": "Tropical Típico",
+    "description": "Estação chuvosa de outubro a abril e estação seca marcada de maio a setembro.",
+    "avgTemp": "22°C a 26°C",
+    "annualRainfall": "1.300 a 1.800 mm",
+    "drySeason": "Maio a Setembro"
+  },
+  "MA": {
+    "code": "MA",
+    "name": "Maranhão",
+    "type": "Tropical e Equatorial de Transição",
+    "description": "Ponto de encontro entre a umidade amazônica e o semiárido nordestino.",
+    "avgTemp": "26°C a 28°C",
+    "annualRainfall": "1.400 a 2.400 mm",
+    "drySeason": "Julho a Novembro"
+  },
+  "MT": {
+    "code": "MT",
+    "name": "Mato Grosso",
+    "type": "Tropical Continental e Equatorial",
+    "description": "Clima quente com verões torrenciais e invernos secos com altas temperaturas.",
+    "avgTemp": "24°C a 27°C",
+    "annualRainfall": "1.500 a 2.500 mm",
+    "drySeason": "Maio a Setembro"
+  },
+  "MS": {
+    "code": "MS",
+    "name": "Mato Grosso do Sul",
+    "type": "Tropical e Subtropical",
+    "description": "Verões quentes e chuvosos; invernos amenos com entradas de frentes polares no sul.",
+    "avgTemp": "20°C a 25°C",
+    "annualRainfall": "1.200 a 1.700 mm",
+    "drySeason": "Junho a Agosto"
+  },
+  "MG": {
+    "code": "MG",
+    "name": "Minas Gerais",
+    "type": "Tropical, de Altitude e Semiárido",
+    "description": "Norte semiárido; centro/oeste de cerrado com verão úmido; sul montanhoso com invernos frios.",
+    "avgTemp": "18°C a 24°C",
+    "annualRainfall": "800 mm (Norte) a 1.800 mm (Sul)",
+    "drySeason": "Maio a Setembro"
+  },
+  "PA": {
+    "code": "PA",
+    "name": "Pará",
+    "type": "Equatorial Quente e Úmido",
+    "description": "Volume intenso de chuva, umidade elevada e calor permanente ao longo de todo o ano.",
+    "avgTemp": "26°C a 29°C",
+    "annualRainfall": "2.000 a 3.200 mm",
+    "drySeason": "Agosto a Novembro (estiagem curta)"
+  },
+  "PB": {
+    "code": "PB",
+    "name": "Paraíba",
+    "type": "Semiárido Quente e Tropical Úmido",
+    "description": "Litoral chuvoso com mata e o interior Cariri, a região de menor pluviosidade de todo o Brasil.",
+    "avgTemp": "24°C a 28°C",
+    "annualRainfall": "350 mm (Cariri) a 1.600 mm (Litoral)",
+    "drySeason": "Junho a Janeiro"
+  },
+  "PR": {
+    "code": "PR",
+    "name": "Paraná",
+    "type": "Subtropical Úmido (Cfa e Cfb)",
+    "description": "Verões amenos a quentes, invernos frios com geadas nas serras e chuvas sem estiagem marcada.",
+    "avgTemp": "16°C a 22°C",
+    "annualRainfall": "1.400 a 2.000 mm",
+    "drySeason": "Sem estação seca definida"
+  },
+  "PE": {
+    "code": "PE",
+    "name": "Pernambuco",
+    "type": "Semiárido e Tropical Litorâneo",
+    "description": "Litoral úmido; agreste serrano e sertão semiárido sujeito a secas crônicas.",
+    "avgTemp": "23°C a 28°C",
+    "annualRainfall": "450 mm (Sertão) a 2.000 mm (Recife)",
+    "drySeason": "Agosto a Fevereiro"
+  },
+  "PI": {
+    "code": "PI",
+    "name": "Piauí",
+    "type": "Semiárido e Tropical Típico",
+    "description": "Clima quente com temperaturas muito elevadas no verão; sudeste semiárido e sudoeste de cerrado.",
+    "avgTemp": "27°C a 30°C",
+    "annualRainfall": "600 mm (Sudeste) a 1.400 mm (Sudoeste)",
+    "drySeason": "Junho a Novembro"
+  },
+  "RJ": {
+    "code": "RJ",
+    "name": "Rio de Janeiro",
+    "type": "Tropical Úmido e Tropical de Altitude",
+    "description": "Litoral quente e úmido com chuvas no verão; serra com clima ameno e nevoeiros constantes.",
+    "avgTemp": "21°C a 26°C",
+    "annualRainfall": "1.200 a 2.500 mm (Serra dos Órgãos)",
+    "drySeason": "Junho a Agosto"
+  },
+  "RN": {
+    "code": "RN",
+    "name": "Rio Grande do Norte",
+    "type": "Semiárido e Tropical Litorâneo",
+    "description": "Litoral arejado e úmido; interior semiárido quente com alta insolação e secas frequentes.",
+    "avgTemp": "26°C a 28°C",
+    "annualRainfall": "400 mm (Seridó) a 1.400 mm (Leste)",
+    "drySeason": "Junho a Janeiro"
+  },
+  "RS": {
+    "code": "RS",
+    "name": "Rio Grande do Sul",
+    "type": "Subtropical Úmido (Cfa e Cfb)",
+    "description": "Quatro estações bem definidas, verões quentes, invernos frios com geadas e eventos de chuvas extremas.",
+    "avgTemp": "15°C a 20°C",
+    "annualRainfall": "1.300 a 1.900 mm",
+    "drySeason": "Sem seca sazonal rígida (estiagens ligadas ao La Niña)"
+  },
+  "RO": {
+    "code": "RO",
+    "name": "Rondônia",
+    "type": "Equatorial e Tropical Úmido",
+    "description": "Quente e chuvoso no verão, com estiagem curta e expressiva entre junho e agosto.",
+    "avgTemp": "24°C a 27°C",
+    "annualRainfall": "1.800 a 2.300 mm",
+    "drySeason": "Junho a Agosto"
+  },
+  "RR": {
+    "code": "RR",
+    "name": "Roraima",
+    "type": "Equatorial e Tropical com Estação Seca",
+    "description": "Regime invertido de chuvas em relação ao restante do Brasil (chuvas concentradas de mai a ago).",
+    "avgTemp": "26°C a 29°C",
+    "annualRainfall": "1.500 a 2.300 mm",
+    "drySeason": "Dezembro a Março"
+  },
+  "SC": {
+    "code": "SC",
+    "name": "Santa Catarina",
+    "type": "Subtropical Úmido (Cfa e Cfb)",
+    "description": "Clima ameno, invernos frios com geadas e neve nas serras; chuvas regulares o ano todo.",
+    "avgTemp": "15°C a 20°C",
+    "annualRainfall": "1.400 a 2.100 mm",
+    "drySeason": "Sem estação seca"
+  },
+  "SP": {
+    "code": "SP",
+    "name": "São Paulo",
+    "type": "Tropical de Altitude e Subtropical",
+    "description": "Litoral muito chuvoso; planalto com verões quentes e chuvosos e invernos secos.",
+    "avgTemp": "18°C a 23°C",
+    "annualRainfall": "1.200 a 2.500 mm (Litoral/Serra)",
+    "drySeason": "Junho a Agosto no Interior"
+  },
+  "SE": {
+    "code": "SE",
+    "name": "Sergipe",
+    "type": "Tropical Úmido e Semiárido",
+    "description": "Litoral úmido com chuvas de outono/inverno; semiárido sertanejo ao longo do Baixo São Francisco.",
+    "avgTemp": "25°C a 28°C",
+    "annualRainfall": "500 mm (Sertão) a 1.600 mm (Litoral)",
+    "drySeason": "Setembro a Fevereiro"
+  },
+  "TO": {
+    "code": "TO",
+    "name": "Tocantins",
+    "type": "Tropical com Estação Seca Pronunciada",
+    "description": "Altas temperaturas com 5 meses de seca rigorosa e verões torrenciais.",
+    "avgTemp": "26°C a 30°C",
+    "annualRainfall": "1.400 a 1.900 mm",
+    "drySeason": "Maio a Setembro"
+  }
+}

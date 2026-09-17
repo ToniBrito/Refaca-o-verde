@@ -1,0 +1,329 @@
+{
+  "AC": {
+    "code": "AC",
+    "name": "Acre",
+    "level": "Muito Baixo",
+    "score": 12,
+    "affectedArea": "< 3% do território",
+    "causes": [
+      "Degradação localizada de pastagens",
+      "Erosão em margens fluviais"
+    ],
+    "riskSummary": "Baixo risco natural de desertificação, mas sensível à compactação de solo por pecuária extensiva."
+  },
+  "AL": {
+    "code": "AL",
+    "name": "Alagoas",
+    "level": "Alto",
+    "score": 74,
+    "affectedArea": "~40% (Sertão e Agreste alagoano)",
+    "causes": [
+      "Supressão de vegetação nativa",
+      "Superpastejo de caprinos",
+      "Práticas agrícolas inadequadas"
+    ],
+    "riskSummary": "Área com núcleos de desertificação ativos no semiárido e perda acentuada de solo fértil."
+  },
+  "AP": {
+    "code": "AP",
+    "name": "Amapá",
+    "level": "Muito Baixo",
+    "score": 5,
+    "affectedArea": "< 1%",
+    "causes": [
+      "Degradação costeira pontual",
+      "Garimpo em igarapés"
+    ],
+    "riskSummary": "Estado mais preservado do Brasil, com cerca de 70% sob unidades de conservação e terras indígenas."
+  },
+  "AM": {
+    "code": "AM",
+    "name": "Amazonas",
+    "level": "Muito Baixo",
+    "score": 8,
+    "affectedArea": "< 2%",
+    "causes": [
+      "Incêndios em secas extremas (El Niño)",
+      "Degradação no sul do estado"
+    ],
+    "riskSummary": "Sem desertificação clássica, mas sob risco de degradação climática se o desmatamento no sul persistir."
+  },
+  "BA": {
+    "code": "BA",
+    "name": "Bahia",
+    "level": "Muito Alto / Crítico",
+    "score": 86,
+    "affectedArea": "> 60% do semiárido baiano",
+    "causes": [
+      "Queimadas para pastagem",
+      "Extração de lenha nativa para siderurgia",
+      "Superpastejo"
+    ],
+    "riskSummary": "Possui o Polo de Desertificação de Jeremoabo e núcleos ativos com perda irreversível de solo fértil."
+  },
+  "CE": {
+    "code": "CE",
+    "name": "Ceará",
+    "level": "Muito Alto / Crítico",
+    "score": 91,
+    "affectedArea": "~70% do estado",
+    "causes": [
+      "Núcleo crítico de Irauçuba",
+      "Salinização por irrigação",
+      "Supressão da mata ciliar"
+    ],
+    "riskSummary": "O núcleo de Irauçuba é o ponto mais severo de desertificação do país, com solos transformados em cascalho estéril."
+  },
+  "DF": {
+    "code": "DF",
+    "name": "Distrito Federal",
+    "level": "Baixo",
+    "score": 22,
+    "affectedArea": "< 10%",
+    "causes": [
+      "Impermeabilização do solo",
+      "Rebaixamento do lençol freático por poços"
+    ],
+    "riskSummary": "Sem risco de desertificação climática, porém sob forte pressão hídrica sobre os aquíferos locais."
+  },
+  "ES": {
+    "code": "ES",
+    "name": "Espírito Santo",
+    "level": "Moderado",
+    "score": 38,
+    "affectedArea": "~25% (Noroeste Capixaba)",
+    "causes": [
+      "Degradação de solos de pastagem antiga",
+      "Secas severas na Bacia do Rio Doce"
+    ],
+    "riskSummary": "Noroeste sofre com ressecamento do solo e perda contínua de água em pequenos cursos hídricos."
+  },
+  "GO": {
+    "code": "GO",
+    "name": "Goiás",
+    "level": "Moderado",
+    "score": 42,
+    "affectedArea": "~20% (Norte e Bacia do Araguaia)",
+    "causes": [
+      "Compactação de pastagens",
+      "Voçorocas em solos arenosos"
+    ],
+    "riskSummary": "Surgimento de voçorocas de grandes proporções e arenização localizada."
+  },
+  "MA": {
+    "code": "MA",
+    "name": "Maranhão",
+    "level": "Alto",
+    "score": 68,
+    "affectedArea": "~35% (Leste e Centro)",
+    "causes": [
+      "Degradação de babaçuais por monoculturas",
+      "Solos arenosos empobrecidos"
+    ],
+    "riskSummary": "Vulnerabilidade em solos frágeis do Cerrado maranhense sob cultivo intensivo."
+  },
+  "MT": {
+    "code": "MT",
+    "name": "Mato Grosso",
+    "level": "Moderado",
+    "score": 45,
+    "affectedArea": "~25% (Cabeceiras e transição)",
+    "causes": [
+      "Degradação das nascentes do Pantanal",
+      "Arenização de solos no sul"
+    ],
+    "riskSummary": "Assoreamento de rios que descem para a planície pantaneira gera estresse hídrico grave."
+  },
+  "MS": {
+    "code": "MS",
+    "name": "Mato Grosso do Sul",
+    "level": "Moderado",
+    "score": 48,
+    "affectedArea": "~28% (Bacia do Taquari e Bodoquena)",
+    "causes": [
+      "Mega-assoreamento do Rio Taquari",
+      "Arenização de solos arenosos"
+    ],
+    "riskSummary": "O desastre do Taquari soterrou centenas de milhares de hectares de campos férteis com areia."
+  },
+  "MG": {
+    "code": "MG",
+    "name": "Minas Gerais",
+    "level": "Alto",
+    "score": 72,
+    "affectedArea": "~40% (Norte de Minas e Vale do Jequitinhonha)",
+    "causes": [
+      "Corte de mata seca para carvão siderúrgico",
+      "Superpastejo bovino",
+      "Erosão severa"
+    ],
+    "riskSummary": "Norte e Jequitinhonha apresentam manchas crescentes de solo esgotado e desertificado."
+  },
+  "PA": {
+    "code": "PA",
+    "name": "Pará",
+    "level": "Baixo",
+    "score": 25,
+    "affectedArea": "~15% (Eixo Transamazônica e Sul do Pará)",
+    "causes": [
+      "Degradação severa de pastagens antigas",
+      "Lixiviação com formação de lateritas"
+    ],
+    "riskSummary": "Solos degradados transformam-se em laterita estéril e capoeiras finas improdutivas."
+  },
+  "PB": {
+    "code": "PB",
+    "name": "Paraíba",
+    "level": "Muito Alto / Crítico",
+    "score": 95,
+    "affectedArea": "> 80% do semiárido (Cariri e Seridó)",
+    "causes": [
+      "Estiagens prolongadas",
+      "Corte indiscriminado de madeira nativa",
+      "Lajedos expostos"
+    ],
+    "riskSummary": "O Cariri paraibano sofre com perda total da camada arável em áreas sobrepastoreadas."
+  },
+  "PR": {
+    "code": "PR",
+    "name": "Paraná",
+    "level": "Muito Baixo",
+    "score": 10,
+    "affectedArea": "< 3%",
+    "causes": [
+      "Arenização no Arenito Caiuá (Noroeste)"
+    ],
+    "riskSummary": "O Noroeste arenoso exige cuidado técnico para evitar voçorocas e erosão laminar."
+  },
+  "PE": {
+    "code": "PE",
+    "name": "Pernambuco",
+    "level": "Muito Alto / Crítico",
+    "score": 89,
+    "affectedArea": "> 65% (Polo Gesseiro do Araripe e Cabrobó)",
+    "causes": [
+      "Fornecimento de lenha para a indústria do gesso",
+      "Sobrepastejo",
+      "Erosão severa"
+    ],
+    "riskSummary": "O Polo Gesseiro do Araripe consome grande quantidade de biomassa nativa, acelerando a degradação."
+  },
+  "PI": {
+    "code": "PI",
+    "name": "Piauí",
+    "level": "Muito Alto / Crítico",
+    "score": 93,
+    "affectedArea": "> 60% (Polo de Gilbués e Sudeste)",
+    "causes": [
+      "Voçorocas monumentais de Gilbués em arenito frágil",
+      "Supressão vegetal"
+    ],
+    "riskSummary": "Gilbués é internacionalmente conhecido como um dos maiores núcleos de desertificação da América do Sul."
+  },
+  "RJ": {
+    "code": "RJ",
+    "name": "Rio de Janeiro",
+    "level": "Moderado",
+    "score": 35,
+    "affectedArea": "~20% (Noroeste e Norte Fluminense)",
+    "causes": [
+      "Degradação de pastagens após ciclos do café e cana",
+      "Erosão em topos de morro"
+    ],
+    "riskSummary": "Noroeste Fluminense (Itaperuna, Cambuci) sofre com compactação de solos e perda de umidade."
+  },
+  "RN": {
+    "code": "RN",
+    "name": "Rio Grande do Norte",
+    "level": "Muito Alto / Crítico",
+    "score": 92,
+    "affectedArea": "> 75% (Seridó Potiguar)",
+    "causes": [
+      "Extração de lenha para cerâmica",
+      "Mineração e sobrepastejo"
+    ],
+    "riskSummary": "O Seridó Potiguar apresenta solos esqueléticos com alto risco de desertificação definitiva."
+  },
+  "RS": {
+    "code": "RS",
+    "name": "Rio Grande do Sul",
+    "level": "Alto (Arenização)",
+    "score": 70,
+    "affectedArea": "~15% (Sudoeste Gaúcho - Alegrete, Manuel Viana)",
+    "causes": [
+      "Fragilidade de solos arenosos sobrepastoreados",
+      "Erosão hídrica e eólica"
+    ],
+    "riskSummary": "A \"Arenização\" no Sudoeste cria areais dinâmicos que soterram a vegetação nativa."
+  },
+  "RO": {
+    "code": "RO",
+    "name": "Rondônia",
+    "level": "Moderado",
+    "score": 36,
+    "affectedArea": "~20%",
+    "causes": [
+      "Compactação extrema do solo por pecuária",
+      "Padrão \"espinha de peixe\" histórico"
+    ],
+    "riskSummary": "Perda acentuada da fertilidade do solo após décadas de pecuária extensiva contínua."
+  },
+  "RR": {
+    "code": "RR",
+    "name": "Roraima",
+    "level": "Baixo",
+    "score": 20,
+    "affectedArea": "< 10%",
+    "causes": [
+      "Megaincêndios no Lavrado em anos de seca do El Niño"
+    ],
+    "riskSummary": "O bioma Lavrado é suscetível a grandes incêndios florestais no ápice da seca."
+  },
+  "SC": {
+    "code": "SC",
+    "name": "Santa Catarina",
+    "level": "Muito Baixo",
+    "score": 6,
+    "affectedArea": "< 1%",
+    "causes": [
+      "Erosão em lavouras de fumo e cebola em encostas"
+    ],
+    "riskSummary": "Sem risco climático de desertificação; risco focado em deslizamentos e enxurradas no Vale do Itajaí."
+  },
+  "SP": {
+    "code": "SP",
+    "name": "São Paulo",
+    "level": "Baixo",
+    "score": 28,
+    "affectedArea": "~10% (Pontal do Paranapanema e Oeste)",
+    "causes": [
+      "Arenização em solos de arenito do interior",
+      "Lavouras históricas intensivas"
+    ],
+    "riskSummary": "Oeste paulista possui faixas de solo arenoso com suscetibilidade à erosão se desprovido de mata."
+  },
+  "SE": {
+    "code": "SE",
+    "name": "Sergipe",
+    "level": "Muito Alto / Crítico",
+    "score": 88,
+    "affectedArea": "> 60% (Sertão do São Francisco)",
+    "causes": [
+      "Pastagens de bacia leiteira",
+      "Assoreamento do Rio São Francisco"
+    ],
+    "riskSummary": "Canindé de São Francisco e Poço Redondo sofrem com perda acentuada de cobertura vegetal e solos pedregosos."
+  },
+  "TO": {
+    "code": "TO",
+    "name": "Tocantins",
+    "level": "Alto",
+    "score": 64,
+    "affectedArea": "~30% (Jalapão e Leste)",
+    "causes": [
+      "Fragilidade das areias do Jalapão",
+      "Incêndios descontrolados na seca"
+    ],
+    "riskSummary": "O Jalapão tem altíssima vulnerabilidade e fragilidade eólica em dunas e campos."
+  }
+}
